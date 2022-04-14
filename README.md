@@ -1,4 +1,4 @@
-# Projeto <img href="#" src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+# Techno <img href="#" src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 
 _"A ideia deste repositório é guardar o projeto Techno, desenvolvido no curso de Vue.js da plataforma origamid!"_
 
